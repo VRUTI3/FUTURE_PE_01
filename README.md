@@ -1,3 +1,5 @@
+![Cafezza Logo](assets/cafezza_logo.png)
+
 # ☕ AI Website Copy Generator for Local Businesses
 
 ## Project Overview
